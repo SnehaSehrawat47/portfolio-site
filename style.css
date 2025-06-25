@@ -1,1 +1,9 @@
 ECHO is on.
+h1{
+    background-color: antiquewhite;
+
+}
+button{
+    color: black;
+    text-emphasis-color: blue;
+}
